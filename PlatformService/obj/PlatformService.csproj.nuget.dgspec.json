@@ -88,6 +88,10 @@
             {
               "name": "Microsoft.NETCore.App.Host.osx-x64",
               "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
             }
           ],
           "frameworkReferences": {

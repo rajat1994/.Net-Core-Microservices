@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AB+Ez8O9St/OfpNemiAQcNNNKLYRfJEPCE1YTgBemKNwoeFwZUyFm9s6bKjBr/elpLSL61nEDszZa5ddGDbcog==",
+  "dgSpecHash": "zvEa6m61o/H0yLxFxERMVf6TijN3d9iWl0/LopUVFvBKEZIMxN4CwKIikTWhDHc405Na1cRgsgZp0wzHfueX6w==",
   "success": true,
   "projectFilePath": "/Users/rajatarora/Desktop/Microservices/.Net-Core-Microservices/PlatformService/PlatformService.csproj",
   "expectedPackageFiles": [
@@ -109,6 +109,7 @@
     "/Users/rajatarora/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/Users/rajatarora/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/Users/rajatarora/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "/Users/rajatarora/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/rajatarora/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
